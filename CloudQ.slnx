@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="CloudQ/CloudQ.vcxproj" Id="c086b385-0400-462f-8773-823fdaac5a15" />
+  <Project Path="SandBox/SandBox.vcxproj" Id="0865670a-6b0e-40be-8d76-b92c82430740" />
+</Solution>

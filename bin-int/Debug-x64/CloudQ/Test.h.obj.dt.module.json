@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "D:\\CloudQ\\CloudQ\\bin-int\\Debug-x64\\CloudQ\\Test.obj",
+            "outputs": [
+                "D:\\CloudQ\\CloudQ\\bin-int\\Debug-x64\\CloudQ\\Test.h.obj.dt.module.json",
+                "D:\\CloudQ\\CloudQ\\bin-int\\Debug-x64\\CloudQ\\Test.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
